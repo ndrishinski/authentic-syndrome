@@ -8,7 +8,7 @@ class App extends React.Component {
 
 			<div id="header">
 				<span className="logo icon fa-paper-plane"></span>
-				<h1>The Jr. Devs</h1>
+				<h1>Jr. Dev Life</h1>
 				<p>A place for Jr. Developers to learn and get job ready
 				<br />
 				by Jr. Developers.</p>
@@ -198,11 +198,11 @@ class App extends React.Component {
 						</header>
             {/* <img style={{height: 40, width: 40, border: '1px solid black'}} src="images/pic01.jpg" alt="" /> */}
 						<p>Hi, my name is Nick Drishinski. I am a web/mobile developer living in Mesa, Arizona with my wife Emilie. I created
-              JDL TJD because when I was first looking to break into the development ranks after being self taught, I felt 
+              Jr. Dev Life because when I was first looking to break into the development ranks after being self taught, I felt 
               completely lost in all the different languages, frameworks, libraries and tech jargon in general. I interviewed so many places via phone, skype and in person, I
               gained valuable insight into what experience really matters when hiring developers. As a lead developer at my current company I am also involved in the 
               hiring process for our devolopment team and have seen the struggles and pitfalls of Jr. Developers interviewing from the employers side too. My mission is to bring 
-              every aspiring developer confidence that comes with valuable experience, so that they can get a great job feeling Authent Syndrome.
+              every aspiring developer confidence that comes with valuable experience, so that they can get a great job feeling confident with no imposter syndrome.
             </p>
 						
 					</section>
