@@ -11,6 +11,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import HomePage from './pages/HomePage'
 import BlogPage from './pages/BlogPage'
 import LandingPage from './pages/LandingPage'
+import Contact from './pages/Contact'
+import BuyContact from './pages/BuyContact'
 
 
 class App extends React.Component {
@@ -37,6 +39,8 @@ class App extends React.Component {
 					<Route exact path="/" component={HomePage} />
 					<Route path="/blog" component={BlogPage} />
 					<Route path="/join" component={LandingPage} />
+					<Route path="/contact" component={Contact} />
+					<Route path="/get-started" component={BuyContact} />
 				</Switch>
 			</Router>
 		</div>

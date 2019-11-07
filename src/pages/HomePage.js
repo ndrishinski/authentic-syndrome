@@ -218,7 +218,7 @@ export default class HomePage extends React.Component {
 
 				<footer className="major container medium">
 					<h3>Get Coding!</h3>
-		  			<p>Contact me at ndrishinski@gmail.com to get job ready!</p>
+		  			<p>Contact me at nick@jrdevlife.com to get job ready!</p>
 					<ul className="actions special">
 						{/* <li><a href={"#"} className="button">Join our crew</a></li> */}
 					</ul>
